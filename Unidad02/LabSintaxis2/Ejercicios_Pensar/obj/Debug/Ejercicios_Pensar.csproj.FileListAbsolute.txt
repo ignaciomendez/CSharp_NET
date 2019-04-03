@@ -1,0 +1,7 @@
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicios_Pensar\bin\Debug\Ejercicios_Pensar.exe.config
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicios_Pensar\bin\Debug\Ejercicios_Pensar.exe
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicios_Pensar\bin\Debug\Ejercicios_Pensar.pdb
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicios_Pensar\obj\Debug\Ejercicios_Pensar.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicios_Pensar\obj\Debug\Ejercicios_Pensar.exe
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicios_Pensar\obj\Debug\Ejercicios_Pensar.pdb
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicios_Pensar\obj\Debug\Ejercicios_Pensar.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio For\obj\Debug\Ejercicio For.csprojAssemblyReference.cache
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio For\obj\Debug\Ejercicio For.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio For\bin\Debug\Ejercicio For.exe.config
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio For\bin\Debug\Ejercicio For.exe
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio For\bin\Debug\Ejercicio For.pdb
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio For\obj\Debug\Ejercicio For.exe
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio For\obj\Debug\Ejercicio For.pdb

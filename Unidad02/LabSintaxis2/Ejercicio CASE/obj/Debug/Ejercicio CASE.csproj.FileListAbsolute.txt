@@ -1,0 +1,6 @@
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio CASE\bin\Debug\Ejercicio CASE.exe.config
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio CASE\bin\Debug\Ejercicio CASE.exe
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio CASE\bin\Debug\Ejercicio CASE.pdb
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio CASE\obj\Debug\Ejercicio CASE.csproj.CoreCompileInputs.cache
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio CASE\obj\Debug\Ejercicio CASE.exe
+C:\Users\Nacho\Documents\IDE NET\Unidad02\LabSintaxis2\Ejercicio CASE\obj\Debug\Ejercicio CASE.pdb
