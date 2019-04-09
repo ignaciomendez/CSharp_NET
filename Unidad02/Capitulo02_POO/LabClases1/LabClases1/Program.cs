@@ -11,6 +11,8 @@ namespace LabClases1
     {
         static void Main(string[] args)
         {
+            void ejercicio1(){ 
+
             A instanciaA = new A();
             B instanciaB = new B();
             A segundaA = new A("nombre");
@@ -22,6 +24,19 @@ namespace LabClases1
             instanciaB.MostrarNombre();
             segundaA.MostrarNombre();
             Console.ReadKey();
+            }
+
+            void ejercicio2() { 
+            D d = new D();
+            C c = d;
+            c.F();
+            d.F();
+            c.G();
+            d.G();
+
+            Console.ReadKey();
+            }
+
         }
     }
 }
